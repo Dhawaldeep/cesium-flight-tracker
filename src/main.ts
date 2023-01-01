@@ -1,6 +1,6 @@
 import './style.css'
 // The URL on your server where CesiumJS's static files are hosted.
-(window as any).CESIUM_BASE_URL = '/';
+(window as any).CESIUM_BASE_URL = '/cesium-flight-tracker/';
 
 import * as Cesium from 'cesium';
 import "cesium/Build/Cesium/Widgets/widgets.css";
